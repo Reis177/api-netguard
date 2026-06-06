@@ -66,7 +66,7 @@ Siga os passos abaixo para clonar, configurar e rodar o projeto localmente na su
 
 * instalar as Dependências
   ```text
-  npm intall
+  npm install
   ```
 
 * Configurar as Variáveis de Ambiente (.env)
@@ -97,4 +97,4 @@ Siga os passos abaixo para clonar, configurar e rodar o projeto localmente na su
 
 ## 👤 Desenvolvedor
   
-  Desenvolvido com dedicação por Reis. Se este projeto te ajudou, deixe uma ⭐️ no repositório !
+  Desenvolvido com dedicação por Reis. Se este projeto te ajudou, deixe uma ⭐️ no repositório!
